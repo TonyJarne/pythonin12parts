@@ -12,3 +12,4 @@ All sorts of Python stuff. In 12 parts.
 8. [Part 8: Combining files and dataframes](https://github.com/paulbradshaw/pythonin12parts/tree/main/part8)
 9. [Part 9: Using APIs to get data](https://github.com/paulbradshaw/pythonin12parts/tree/main/part9)
 10. [Part 10: Dealing with JSON](https://github.com/paulbradshaw/pythonin12parts/tree/main/part10)
+11. [Part 11: Reviewing lists, loops and APIs](https://github.com/paulbradshaw/pythonin12parts/tree/main/part11)
