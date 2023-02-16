@@ -1,4 +1,6 @@
-# Part 5: Scraping surgery
+# Part 5: Scraping resources
+
+This folder contains a number of resources on the legal and ethical issues related to scraping. Links are also included below:
 
 * The [ONS Web Scraping Policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy) outlines how that organisation considers legal and ethical issues
 * The [UK Statistics Authority Ethics Self-Asssessment Tool](https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/national-statisticians-advisory-committees-and-panels/national-statisticians-data-ethics-advisory-committee/ethics-self-assessment-tool/) is referenced in that ONS guide and provides a useful framework
