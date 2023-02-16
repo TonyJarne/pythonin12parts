@@ -1,3 +1,3 @@
 # Regex
 
-This folder includes material related to using regular expressions (regex) in Python.
+This folder includes [a notebook that walks through using regular expressions (regex) in Python](https://github.com/paulbradshaw/pythonin12parts/blob/main/part12/14regexSpeeches.ipynb).
