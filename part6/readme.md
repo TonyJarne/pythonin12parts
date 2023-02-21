@@ -5,3 +5,7 @@ This folder contains notebooks that show how to work with strings (text) and dat
 * The [first notebook](https://github.com/paulbradshaw/pythonin12parts/blob/main/part6/CheckTextInPage.ipynb) works through how to use Python to tell if a webpage contains a word (string) or not. As it involves large chunks of printed text, it's best downloaded first and then uploaded to Google Drive and opened there as a working Colab notebook.
 * A [second notebook](https://github.com/paulbradshaw/pythonin12parts/blob/main/part6/08CSurgery2dates.ipynb) provides a case study in dealing with a dates, which also includes a scraper that grabs the data we need to clean.
 
+## Other resources on Python cleaning
+
+* Ben Hui: [A hands-on data cleaning & preparation example](https://medium.com/towardsdev/a-hands-on-data-cleaning-preparation-example-cb04211158c5)
+* [My Python cleaning bookmarks](https://pinboard.in/u:paulbradshaw/t:cleaning+python)
