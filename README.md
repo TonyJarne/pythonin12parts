@@ -14,3 +14,5 @@ All sorts of Python stuff. In 12 parts.
 10. [Part 10: Dealing with JSON](https://github.com/paulbradshaw/pythonin12parts/tree/main/part10)
 11. [Part 11: Reviewing lists, loops and APIs](https://github.com/paulbradshaw/pythonin12parts/tree/main/part11)
 12. [Part 12: Regular expressions and text](https://github.com/paulbradshaw/pythonin12parts/tree/main/part12)
+
+Visualisation isn't covered here, but you can find tutorials on using Python for visualisation in my [Python+vis bookmarks](https://pinboard.in/u:paulbradshaw/t:vis+python)
